@@ -1,0 +1,5 @@
+.venv
+.ipynb
+*.pdf
+*.png
+*.svg
