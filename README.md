@@ -14,7 +14,7 @@ For the building blocks of the infrastructure see:
  -  [https://github.com/xEatos/searchsnail](https://github.com/xEatos/searchsnail) (Media Search Microservice)
  -  [https://github.com/xEatos/integrationindri](https://github.com/xEatos/integrationindri) (Integration & Import Microservice)
 
-If you would like to cite this work:
+<!-- If you would like to cite this work:
 ```
 @article{stehr_digitale_2025,
 	title = {Eine digitale {Wissensinfrastruktur} zur {Bereitstellung} von {Informationen} über wissenschaftliche {Videos} und {Podcasts}},
@@ -27,7 +27,7 @@ If you would like to cite this work:
 	year = {2025},
 	note = {Publisher: Hannover : Gottfried Wilhelm Leibniz Universität},
 }
-```
+``` -->
 
 ## Setup
 
