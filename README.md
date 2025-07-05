@@ -6,8 +6,8 @@ Surveys can be contributed to via the following links:
 * [[EN] SciCom Wiki](https://survey.uni-hannover.de/index.php/139333?lang=en)
 
 For fellow researchers interested in the survey design, all surveys are inspectable in their entirety at once as well:
-* [[DE] WissKomm Wiki](https://html-preview.github.io/?url=https://github.com/wittenborg/2025-scicom-ki-survey/blob/master/de/LimeSurvey%20-%20WissKomm%20Wiki.html)
-* [[EN] SciCom Wiki](https://html-preview.github.io/?url=https://github.com/wittenborg/2025-scicom-ki-survey/blob/master/en/LimeSurvey%20-%20SciCom%20Wiki.html)
+* [[DE] WissKomm Wiki (read only)](https://html-preview.github.io/?url=https://github.com/wittenborg/2025-scicom-ki-survey/blob/master/de/LimeSurvey%20-%20WissKomm%20Wiki.html)
+* [[EN] SciCom Wiki (read only)](https://html-preview.github.io/?url=https://github.com/wittenborg/2025-scicom-ki-survey/blob/master/en/LimeSurvey%20-%20SciCom%20Wiki.html)
 
 For the building blocks of the infrastructure see:
  -  [https://github.com/xEatos/dashboardduck](https://github.com/xEatos/dashboardduck) (Web-Page)
